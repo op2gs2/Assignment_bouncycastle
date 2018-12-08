@@ -1,6 +1,8 @@
-#Bouncy Castle의 소개와 Java Provider FrameWork의 소개와
+# Bouncy Castle의 소개와 Java Provider FrameWork의 소개와
 
-##Bouncy Castle의 소개
+------------------------------------------------
+
+## Bouncy Castle의 소개
 Bouncy Castle은 암호 관련 라이브러리 입니다. 언어는 자바와 C#언어로 구성되어 있습니다.
 Bouncy Castle은 호주 단체로 부터 후원을 받고 있습니다. 
 그래서 암호를 해외를 수출하지 못하는 미국의 암호 수출 제한의 적용을 받지 않습니다.
@@ -17,4 +19,4 @@ Java ME (J2ME) 개발에 관심이 있던 한 개발자가 개발을 하게 되�
 
 ------------------------------------------------
 
-##Java Provider FrameWork의 소개
+## Java Provider FrameWork의 소개
