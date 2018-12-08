@@ -35,3 +35,8 @@ JCE는 암/복호화등 실질적인 암호화 구현을 제공하고, javax.cry
 이 계층이 여기에 있음으로써, 여러 개의 프로바이더를 비교적 쉽게 추가하거나 바꿀 수 있습니다.
 만약 프로바이더가 Java와 가까이 있다면, 프로바이더를 추가하거나 바꾸는게 어려울 수도 있기 때문입니다. 한마디로 암호 라이브러리에 대한 유연성이 떨어지게 되는 것입니다.
 이러한 프로바이더는 .jar 파일을 다운받아 외부 라이브러리로 등록을 하거나 JAVA_HOME/jre/lib/security/java.security에 있는 프로바이더 목록에 등록을 해주면 된다고 합니다.
+
+## 출처
+- http://andang72.blogspot.com/2017/02/blog-post.html
+- https://docs.oracle.com/javase/7/docs/api/java/security/Provider.html
+- https://www.wikiwand.com/en/Bouncy_Castle_(cryptography)
