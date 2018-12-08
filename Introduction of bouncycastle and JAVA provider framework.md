@@ -16,6 +16,8 @@ Java ME (J2ME) 개발에 관심이 있던 한 개발자가 개발을 하게 되�
 그러나, 기존에 있던 클래스 이름과의 충돌등의 문제가 생겨, 안드로이드 애플리케이션의 표준이 되지는 못했다고 합니다. 
 
 ## Java Provider FrameWork의 소개
+![JAVA_Cryptography_Architecture_OverView](./img/JAVA_Cryptography_Architecture_OverView.PNG)
+---------------------
 Java Provider FrameWork는 자바환경에서 암호화 관련 라이브러리등을 불러오기 위한 구조이다.
 이러한 라이브러리는 애플리케이션 -> JCA / JCE의 추상 계층 -> 프로바이더 계층으로 구성되어 있다.
 
