@@ -1,6 +1,4 @@
-# Bouncy Castle의 소개와 Java Provider FrameWork의 소개와
-
-------------------------------------------------
+# Bouncy Castle의 소개와 Java Provider FrameWork의 소개
 
 ## Bouncy Castle의 소개
 Bouncy Castle은 암호 관련 라이브러리 입니다. 언어는 자바와 C#언어로 구성되어 있습니다.
@@ -16,7 +14,5 @@ Java ME (J2ME) 개발에 관심이 있던 한 개발자가 개발을 하게 되�
 또한 Android 운영체제를 위한 라이브러리가 2014년 초에 Spongy Castle이라는 이름으로 나왔습니다.
 이것은 기존에 있던 Bouncy Castle을 커스터마이징 한 버젼입니다.
 그러나, 기존에 있던 클래스 이름과의 충돌등의 문제가 생겨, 안드로이드 애플리케이션의 표준이 되지는 못했다고 합니다. 
-
-------------------------------------------------
 
 ## Java Provider FrameWork의 소개
