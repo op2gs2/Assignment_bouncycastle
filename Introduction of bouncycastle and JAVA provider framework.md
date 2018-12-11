@@ -18,10 +18,10 @@ Java ME (J2ME) 개발에 관심이 있던 한 개발자가 개발을 하게 되�
 ## Java Provider FrameWork의 소개
 ![JAVA_Cryptography_Architecture_OverView](./img/JAVA_Cryptography_Architecture_OverView.PNG)
 ---------------------
-Java Provider FrameWork는 자바환경에서 암호화 관련 라이브러리등을 불러오기 위한 구조이다.
-이러한 라이브러리는 애플리케이션 -> JCA / JCE의 추상 계층 -> 프로바이더 계층으로 구성되어 있다.
+Java Provider FrameWork는 자바환경에서 암호화 관련 라이브러리등을 불러오기 위한 구조입니다
+이러한 라이브러리는 애플리케이션 -> JCA / JCE의 추상 계층 -> 프로바이더 계층으로 구성되어 있습니다.
 
-애플리케이션은 말그대로 우리가 짜는 코드가 있는 곳이 애플리케이션 계층이다.
+애플리케이션은 말그대로 우리가 짜는 코드가 있는 곳이 애플리케이션 계층입니다.
 
 추상 계층이 생긴 이유는 자바 초기, 암호가 해외에 수출되는 것을 금지하는 미국 정부의 규제 때문이라고 한다.
 JCA는 암호화 처리를 위한 기본 구조 정도를 제공하고, java.security 패키지에 포함되어 있다.
