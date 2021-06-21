@@ -25,7 +25,7 @@ This consist of hierarchically, from Application, the abstract hierarchy of JCA 
 Here is an environment for the development Application.
 For example, Eclipse, IntelliJ is application hierarchy in this concept.
 
-### hierarchy of JCA / JCE
+### Hierarchy of JCA / JCE
 The reason that made this layer is, by regulation that not to export cryptography of US government. 
 JCA provides a basic structure for cryptographic processing, Include in java.security.
 JCE provides implement of cryptography like encryption and decryption, Include in javax.crypo.
