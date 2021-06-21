@@ -30,7 +30,7 @@ The reason that made this layer is, by regulation that not to export cryptograph
 JCA provides a basic structure for cryptographic processing, Include in java.security.
 JCE provides implement of cryptography like encryption and decryption, Include in javax.crypo.
 So some of the crypto-algorithms regulated by the US government deployed by part of JCE.
-Thanks to PGP, US regulation is mitigated from yesterday, JCE is included in JDK 1.4 Version.
+Thanks to PGP, US regulation is mitigated from yesterday, JCE is included in JDK 1.4 Version or above.
 JCA is part of the provider layer, It connects application and crypto-provider.
 
 ### Provider hierarchy
